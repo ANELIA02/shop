@@ -3,8 +3,8 @@ import Main from "./Main";
 export default function Home() {
   return (
     <div>
-<Header></Header>
-<Main></Main>
+      <Header />
+      <Main />
     </div>
   );
 }

@@ -6,7 +6,7 @@ import avatar from '@/public/assets/images/8.jpg'
 
 export default function Header() {
   return (
-    <div className="px-56" >
+    <div className="px-56 py-4" >
     <header className="flex justify-between border-b-2 border-gray-200 ">
      <div className=" flex gap-8  items-start">
       <Image src={logo} alt="logo"/>
